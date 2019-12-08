@@ -1,0 +1,17 @@
+img {
+    float: left;
+    margin: 15px;
+}
+button {
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #ea3447;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    letter-spacing: .5px;
+}
+button:hover {
+    background-color: #fa5457;
+}
